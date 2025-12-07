@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-scrape_score/node_modules
+frontend/node_modules
 /.pnp
 .pnp.js
 
