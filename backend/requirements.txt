@@ -1,0 +1,3 @@
+# Python package dependencies for the Scrape_Score backend application
+fastapi
+uvicorn[standard]
